@@ -11,3 +11,7 @@
 | content            | entity_id      | n        | Share related content.                  |
 | report             | entity_id      | y        | Report metadata.                        |
 | hp                 | integer        | n        | hp value.                               |
+
+`content` entity contains the related [content metadata](./content.md).
+
+`report` entity contains the related [report metadata](./report.md).
